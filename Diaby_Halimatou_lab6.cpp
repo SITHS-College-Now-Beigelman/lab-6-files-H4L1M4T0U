@@ -10,11 +10,6 @@
 using namespace std;;
 
 
-
-
-
-
- 
 int main ( ) 
 {
     int Num1, Num2;
